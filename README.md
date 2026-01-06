@@ -10,7 +10,7 @@ A simple Python kiosk application with order management and receipt DB.
 
 ## Installation
 1. Clone repo
-2. Run `main.py`
+2. Run `kiosk.py`
 
 ## Usage
 1. Select menu items
